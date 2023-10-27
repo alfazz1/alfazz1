@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfazz1
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I have currently completed bachelors in Bsc Data Science and Analytics
+- 🌱 I have currently completed bachelors in Data Science and Analytics
 - 📫 How to reach me alfas15724@gmail.com
 
 <!---
